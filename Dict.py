@@ -1,10 +1,8 @@
 #A dictionary is used to store key value pairs
 students={
-
-"name":"Brian",
-"age":21,
-"course":"Python"
-
+          "name":"Brian",
+          "age":21
+          "course": "Python"
 }
 print(students)
 #Accessing values in a dict -use keys
